@@ -1,0 +1,9 @@
+step1.  Create npm proj
+step2.  create Index,css,js files.
+step3.  install dependencies ,express,nodemon(dev dep)
+step4.  crate express server (server.js)
+step5.  do frontend part.
+step6   Install socket.io ,Setip socket.io in server.js and client client.js
+step7.  client send msg logic in client.js.
+step8.  receive msg on server and broadcast to all clients.
+step9.  receive message on client and display it. scrollToBottom etc..
